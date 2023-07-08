@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E0EBAD82A591FC900985466 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E0EBAD72A591FC900985466 /* ItemRow.swift */; };
 		3EA348252A5919DC006303EB /* iDineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA348242A5919DC006303EB /* iDineApp.swift */; };
 		3EA348272A5919DC006303EB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA348262A5919DC006303EB /* ContentView.swift */; };
 		3EA348292A5919DD006303EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EA348282A5919DD006303EB /* Assets.xcassets */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3E0EBAD72A591FC900985466 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		3EA348212A5919DC006303EB /* iDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EA348242A5919DC006303EB /* iDineApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iDineApp.swift; sourceTree = "<group>"; };
 		3EA348262A5919DC006303EB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 			children = (
 				3EA348242A5919DC006303EB /* iDineApp.swift */,
 				3EA348262A5919DC006303EB /* ContentView.swift */,
+				3E0EBAD72A591FC900985466 /* ItemRow.swift */,
 				3EA3484E2A591AB3006303EB /* Helper.swift */,
 				3EA348512A591AC0006303EB /* Menu.swift */,
 				3EA348502A591AC0006303EB /* Order.swift */,
@@ -273,6 +276,7 @@
 				3EA348272A5919DC006303EB /* ContentView.swift in Sources */,
 				3EA348252A5919DC006303EB /* iDineApp.swift in Sources */,
 				3EA348532A591AC0006303EB /* Order.swift in Sources */,
+				3E0EBAD82A591FC900985466 /* ItemRow.swift in Sources */,
 				3EA3484F2A591AB3006303EB /* Helper.swift in Sources */,
 				3EA348542A591AC0006303EB /* Menu.swift in Sources */,
 			);
